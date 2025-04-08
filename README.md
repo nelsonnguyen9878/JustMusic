@@ -10,3 +10,4 @@ The functions that users will be able to use are:
 - Restart
 - Insert songs
 
+Collaborators: Abdurrahman Alyajouri, Nelson Nguyen.
