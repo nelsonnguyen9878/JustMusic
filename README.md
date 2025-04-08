@@ -1,11 +1,12 @@
-# MusicPlayer
+# JustMusic
+JustMusic is a music player website that will allow users to create a playlist by uploading music files. 
 
-Coding a dollar tree spotify - using C++
-Functions| 
+The functions that users will be able to use are:
 - Play
 - Pause
 - Repeat
-- next
-- previous
-- restart
+- Next
+- Previous
+- Restart
+- Insert songs
 
